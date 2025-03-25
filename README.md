@@ -1,4 +1,4 @@
 # Git-Tut
 Learning Git now
 
-From Youtube Apna college Channel
+Jeevan learns - From Youtube Apna college Channel
